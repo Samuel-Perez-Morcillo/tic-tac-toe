@@ -56,7 +56,7 @@ const Game = () => {
 
     return (
         <main className="board">
-            <h1 className="title">TIC-TAC-TOE</h1>
+            <h1 className="title">TIC-TAC-TOE V.2</h1>
 
             <button className="win" onClick={resetGame}>
                 Restart Game
